@@ -76,6 +76,7 @@ a:hover {
 
 .content {
   margin: 50px;
+  left: 0;
   width: 1500px;
   font-size: 25px;
   line-height: 2.0;
