@@ -200,6 +200,42 @@ p.upright {
   text-decoration: underline;
 }
 
+.font1 {
+  font-family: 'Poiret One', cursive;
+}
+
+.font2 {
+  font-family: 'Cabin Sketch', cursive;
+}
+
+.font3 {
+  font-family: 'Fredericka the Great', cursive;
+}
+
+.font4 {
+  font-family: 'Black Ops One', cursive;
+}
+
+.font5 {
+  font-family: 'Mr Dafoe', cursive;
+}
+
+.font6 {
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+.font7 {
+  font-family: 'Bad Script', cursive;
+}
+
+.font8 {
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.font9 {
+    font-family: 'Love Ya Like A Sister', cursive;
+}
+
 .hshadow {
   text-shadow: 2px 4px #51a8dd;
 }
