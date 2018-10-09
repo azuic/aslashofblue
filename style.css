@@ -161,14 +161,14 @@ path {
 }
 
 p.vertical {
-  -webkit-writing-mode: vertical-rl;
-  -webkit-text-orientation: upright;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
 }
 
 p.verticalL {
-  -webkit-writing-mode: vertical-rl;
-  -webkit-text-orientation: upright;
-  -webkit-direction: rtl;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  direction: rtl;
 }
 
 p.upright {
